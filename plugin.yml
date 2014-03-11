@@ -1,0 +1,5 @@
+name: EconomyAPI
+main: net.bootymc.economy.Economy
+version: 0.1
+authors: [transcend_]
+depend: [PermissionsEx]

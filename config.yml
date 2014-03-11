@@ -1,0 +1,3 @@
+currency-name: 'BCoins'
+
+mysql-database: 'jdbc:mysql://127.0.0.1:3306/minecraft_users_004;mc_usr_004;9ZXFuf7daRTQMRXS'
